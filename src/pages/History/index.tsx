@@ -17,7 +17,7 @@ export function History() {
             <tr>
               <th>Tarefa</th>
               <th>Duração</th>
-              <th>Finalizado</th>
+              <th>Iniciado</th>
               <th>Inicio</th>
               <th>Status</th>
             </tr>
